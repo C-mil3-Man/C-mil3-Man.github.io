@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https:/C-mil3-Man.github.io"
 theme = "DoIt"
 themesDir = "themes"
 title = "dead airspace"
@@ -17,7 +17,6 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 [author]
   name = "crux"
   email = "kalevakotoa@gmail.com"
-  link = "https://open.window.crux"
 
 [menu]
   [[menu.main]]
