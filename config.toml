@@ -17,7 +17,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 [author]
   name = "crux"
   email = "kalevakotoa@gmail.com"
-  link = "https://"
+  link = "https://open.window.crux"
 
 [menu]
   [[menu.main]]
@@ -182,7 +182,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       enable = true
       [params.page.comment.waline]
         enable = true
-        serverURL = "https://waline-C-mil3-Man.vercel.app"
+        #serverURL = "https://waline-C-mil3-Man.vercel.app"
         pageview = true
         comment = true
         emoji = ['https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo']
